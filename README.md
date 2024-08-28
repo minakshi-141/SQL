@@ -9,5 +9,5 @@ Visualization & Reporting: Created clear and actionable insights through data vi
 Tools & Technologies: SQL Workbench for query execution, data manipulation, and analysis.
 Outcome: This project not only sharpened my SQL skills but also provided a deeper understanding of how data can be transformed into actionable insights. The project is documented thoroughly, with all queries and results available on GitHub.
 
-Connect with me on LinkedIn: [LinkedIn Profile Link]
+Connect with me on LinkedIn:[ https://www.linkedin.com/in/minakshimishra]
 
